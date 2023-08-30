@@ -1,0 +1,19 @@
+{
+  "empresa": {
+    "nombre": "svp",
+    "pathLogo": "assets/images/logoSVP®3.jpg",
+	"appTitulo": "SVP Terminal",
+	"appTituloShort": "SVP Terminal",
+    "agrupadoresAgencias": [],
+    "agrupadoresAgenciasEx": [],
+	"isRegistro": true,
+	"isLogoHeader": false,
+	"isBackgroundTransparentHeader": false,
+	"uriAuthority": "wssvp2.duckdns.org",
+	"baseUrl": "https://wssvp2.duckdns.org/api",
+	"colorPrimarySwatch": "#000000",
+	"contacto": "https://svpstreaming.duckdns.org/_app/_svp/_info/Contacto.pdf",
+	"datosBancarios": "https://svpstreaming.duckdns.org/_app/_svp/_info/DatosBancarios.pdf",
+	"solicitudes": "https://svpstreaming.duckdns.org/_app/_svp/_info/Solicitudes.pdf"
+  }
+}
